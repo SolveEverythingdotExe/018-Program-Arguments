@@ -1,0 +1,12 @@
+E:\Projects\C#\YT\018\SortContent\SortContent\bin\Debug\SortContent.exe.config
+E:\Projects\C#\YT\018\SortContent\SortContent\bin\Debug\SortContent.exe
+E:\Projects\C#\YT\018\SortContent\SortContent\bin\Debug\SortContent.pdb
+E:\Projects\C#\YT\018\SortContent\SortContent\obj\Debug\SortContent.csprojResolveAssemblyReference.cache
+E:\Projects\C#\YT\018\SortContent\SortContent\obj\Debug\SortContent.exe
+E:\Projects\C#\YT\018\SortContent\SortContent\obj\Debug\SortContent.pdb
+D:\Projects\C#\YT\SolveEverything.exe\018 - Program Arguments\SortContent\SortContent\bin\Debug\SortContent.exe.config
+D:\Projects\C#\YT\SolveEverything.exe\018 - Program Arguments\SortContent\SortContent\bin\Debug\SortContent.exe
+D:\Projects\C#\YT\SolveEverything.exe\018 - Program Arguments\SortContent\SortContent\bin\Debug\SortContent.pdb
+D:\Projects\C#\YT\SolveEverything.exe\018 - Program Arguments\SortContent\SortContent\obj\Debug\SortContent.csproj.CoreCompileInputs.cache
+D:\Projects\C#\YT\SolveEverything.exe\018 - Program Arguments\SortContent\SortContent\obj\Debug\SortContent.exe
+D:\Projects\C#\YT\SolveEverything.exe\018 - Program Arguments\SortContent\SortContent\obj\Debug\SortContent.pdb
